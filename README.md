@@ -1,6 +1,6 @@
 # AB Testing Mobile Game 
 
-In this project i will walk torught an ab testing for an popular mobile game app i will show step-by-step of an ab testing using python
+In this project i will walk through an ab testing for an popular mobile game app i will show step-by-step of an ab testing using python
 
 <p>This project is based on a mini project from <a href="https://www.datacamp.com/projects/184">Datacamp</a>.</p>
 <p><a href="https://www.facebook.com/cookiecatsgame">Cookie Cats</a> is a hugely popular mobile puzzle game developed by <a href="http://tactile.dk">Tactile Entertainment</a>. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats. Check out this short demo:</p>
