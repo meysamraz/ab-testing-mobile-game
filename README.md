@@ -36,6 +36,6 @@ In this project i will walk through an ab testing for an popular mobile game app
 
  - [matplotlib](https://matplotlib.org/)
  - [seaborn](https://seaborn.pydata.org/#:~:text=Seaborn%20is%20a%20Python%20data,introductory%20notes%20or%20the%20paper.)
- - [pandas][https://pandas.pydata.org/]
- - [numpy][https://numpy.org/]
+ - [pandas](https://pandas.pydata.org/)
+ - [numpy](https://numpy.org/)
  - [scipy](https://scipy.org/)
